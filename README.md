@@ -1,4 +1,4 @@
-This repository contains the analysis code that led to the results presented in the article in Global Change Biology titled “(Konings et al., 2024). This README is written assuming the reader has read that article. 
+This repository contains the analysis code that led to the results presented in the article in Global Change Biology titled “Tree species explain only half of explained spatial variability in plant water sensitivity" (Konings et al., 2024). This README is written assuming the reader has read that article. 
 
 Most of the data files associated with this analysis (including the input plant water sensitivity map, the subsetting of theis map to FIA sites, the biogeographic predictor values at the FIA sites, their dominant species, and the predicted plant water sensitivity values from the species-based and random forest models) are uploaded to an associated Dryad repository. The Dryad repository can be found at [doi:10.5061/dryad.g1jwstr05](doi:10.5061/dryad.g1jwstr05) This may be helpful for running some of the code in this repository. 
 
